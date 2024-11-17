@@ -2,7 +2,7 @@ return {
     vehicle = 'trash2',
     giveItemReward = true,
     itemRewardChance = 75,
-    itemRewardName = 'cryptostick',
+    itemRewardName = 'weed_purplehaze_seed',
     minStops = 5,
     bagUpperWorth = 100,
     bagLowerWorth = 50,
